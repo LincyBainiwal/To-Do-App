@@ -11,11 +11,12 @@ This is a simple ToDo application built using ReactJS. It allows users to create
 
 ## Installation
 --> Clone the repository to your local machine:
-     
+
+        https://github.com/LincyBainiwal/To-Do-App
     
 Navigate to the project directory:
-1. Go to terminal and then npm install.
-2. Use command npm start to run the code.
+1. Go to terminal and then `npm install`.
+2. Use command `npm start` to run the code.
 
 
 
